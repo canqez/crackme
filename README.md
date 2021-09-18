@@ -94,6 +94,7 @@
 + [Реверс-инжиниринг CLR приложений](https://github.com/dnSpy/dnSpy)
 + [Win64 отладчик](https://x64dbg.com/)
 + [Инструкция по созданию виртуальной машины в облаке (heroku)](https://github.com/readysloth/MIEE-ASM-WEB-TTY)
++ [Декомпилятор для C/C++](https://derevenets.com/)
 
 
 # sha1sum
