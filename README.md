@@ -89,6 +89,11 @@
 
 + [Онлайн ассемблер отдельных инструкций](https://defuse.ca/online-x86-assembler.htm)
 + [Онлайн исследование скомпилированного кода](https://godbolt.org/)
++ [Reverse Engineering для начинающих](https://protey.net/attachments/re4b-ru-pdf.2077/)
++ [Примеры решения crackme в radare2](https://book.rada.re/crackmes/intro.html)
++ [Реверс-инжиниринг CLR приложений](https://github.com/dnSpy/dnSpy)
++ [Win64 отладчик](https://x64dbg.com/)
++ [Инструкция по созданию виртуальной машины в облаке (heroku)](https://github.com/readysloth/MIEE-ASM-WEB-TTY)
 
 
 # sha1sum
