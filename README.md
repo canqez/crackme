@@ -20,7 +20,7 @@
 
 
 Не хотите ставить линукс, но хотите решить задачи?
-Воспользуйтесь [jslinux](https://bellard.org/jslinux)
+Воспользуйтесь [jslinux](https://bellard.org/jslinux) или [heroku](https://github.com/readysloth/MIEE-ASM-WEB-TTY)
 
 ## Цели
  + cp -- найти ключ активации или снять полностью защиту
