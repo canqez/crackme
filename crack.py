@@ -33,13 +33,13 @@ while(1):
             print("Can't find tp file! Please make sure, that tp file is in one folder with crack!\n")
         else:
             r2.cmd('oo+')
-            r2.cmd('s 0x00400e21')
-            r2.cmd('wa jmp 0x400e2d')
-            r2.cmd('s 0x004013f2')
-            r2.cmd('wa jmp 0x004013f4')
+            r2.cmd('oo+')
+
+            r2.cmd('s 0x00400d69')
+            r2.cmd('wa jmp 0x00400e2d;nop;nop;nop')
+
             r2.cmd('s 0x004013f4')
-            r2.cmd('wa mov eax, 1')
-            print('File tp is successfully cracked!\n')
+            r2.cmd('wa mov eax, 0')
     elif(c == 3):
         try:
             r3 = r2pipe.open('game')
