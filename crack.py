@@ -38,7 +38,7 @@ while(1):
             r2.cmd('s 0x004013f2')
             r2.cmd('wa jmp 0x004013f4')
             r2.cmd('s 0x004013f4')
-            r2.cmd('wa mov eax, 2')
+            r2.cmd('wa mov eax, 1')
             print('File tp is successfully cracked!\n')
     elif(c == 3):
         try:
